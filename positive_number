@@ -1,0 +1,4 @@
+number = list(range(-10, 10))
+print(number)
+positive = [i for i in number if i>=0]
+print(positive)
